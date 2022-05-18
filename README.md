@@ -1,9 +1,9 @@
 # BucketDrop
 Utility application for secure file storage to AWS S3 Buckets in the Cloud.
 
-I needed tool to allow clients to upload files to the cloud securely.  I decided to reuse the code from my coursework project [biscaboy/cloudstorage](https://github.com/biscaboy/cloudstorage) to that end so I could avoid a subscription to a cloud storage service.
+I needed tool to allow clients to upload files to the cloud securely.  I decided to reuse the code from my coursework project [biscaboy/cloudstorage](https://github.com/biscaboy/cloudstorage) to that end so I could avoid another subscription and learn how to use the AWS SDK at the same time.  
 
-This project stores files in the actual AWS Cloud.
+This project's goal is to stores files in the actual AWS Cloud.
 
 The project uses these libraries:
 [Spring](https://spring.io),
